@@ -1,0 +1,2 @@
+C:\Users\Student\Desktop\KI Project 2\TA-Visual-Studio\obj\x86\Debug\Math Solution.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\KI Project 2\TA-Visual-Studio\obj\x86\Debug\Math Solution.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\KI Project 2\TA-Visual-Studio\obj\Debug\Math Solution.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\KI Project 2\TA-Visual-Studio\bin\Debug\ConsoleApplication.exe
+C:\Users\Student\Desktop\KI Project 2\TA-Visual-Studio\bin\Debug\ConsoleApplication.pdb
+C:\Users\Student\Desktop\KI Project 2\TA-Visual-Studio\obj\Debug\ConsoleApplication.exe
+C:\Users\Student\Desktop\KI Project 2\TA-Visual-Studio\obj\Debug\ConsoleApplication.pdb
